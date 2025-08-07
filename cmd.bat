@@ -1,7 +1,0 @@
-.venv
-.ruff_cache
-structure.txt
-cmd.ps1
-cmd.bat
-.python-version
-
