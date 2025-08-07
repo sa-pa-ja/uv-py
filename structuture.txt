@@ -1,0 +1,45 @@
+# PowerTree Output
+# Generated: 08/07/2025 15:11:29
+# Path: .
+# Output File: structuture.txt
+Sort By                Name Ascending
+Display Columns        Hierarchy Only
+Human Readable Sizes   False
+Directory Only         False
+Show Hidden Files      False
+Prune Empty Folders    False
+Max Depth              2
+Excluded Directories   None
+Include File Types     None
+Exclude File Types     None
+File Size Filter       None
+
+Files    Folders    Total Items    Depth    Total Size    Execution Time    
+─────    ───────    ───────────    ─────    ──────────    ──────────────    
+12       5          17             1        8.53   KB     14 ms             
+
+Hierarchy
+─────────
+├───.python-version
+├───cmd.bat
+├───cmd.ps1
+├───main.py
+├───pyproject.toml
+├───README.md
+├───uv.lock
+│
+├───.ruff_cache
+│   ├───.gitignore
+│   ├───CACHEDIR.TAG
+│   │
+│   └───0.12.7
+│
+└───.venv
+    ├───.gitignore
+    ├───CACHEDIR.TAG
+    ├───pyvenv.cfg
+    │
+    ├───Lib
+    │
+    └───Scripts
+
