@@ -2,8 +2,10 @@
 name = "py-uv"
 version = "0.1.0"
 description = "Add your description here"
+authors = [{name="Patino Jauja, Saturnino", email= "161881@unsaac.edu.pe"}]
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "flask>=3.1.1",
     "ruff>=0.12.7",
 ]
